@@ -47,7 +47,7 @@ public class MythosTheon {
     private void clientSetup(final FMLClientSetupEvent event) {
     }
 
-    public static final CreativeModeTab TAB = new CreativeModeTab("MythosTheonTab") {
+    public static final CreativeModeTab TAB = new CreativeModeTab("mythos_theon_tab") {
 
         @Override
         public ItemStack makeIcon() {
